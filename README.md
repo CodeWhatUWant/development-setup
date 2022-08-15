@@ -2,6 +2,7 @@
 ## ⌨️ Command line tools
 1. [Homebrew](https://brew.sh/)
 2. `webstorm` installed from [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app/) (for automations)
+3. GitHub CLI (`brew install gh`)
 
 ## 🛠 IDEs
 1. [Webstorm](https://www.jetbrains.com/webstorm/)
